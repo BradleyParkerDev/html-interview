@@ -1,0 +1,32 @@
+div {
+    border: 2px solid blue;
+    padding: 20px;
+}
+
+.jh {
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: orchid;
+}
+.ih {
+    font-style: italic;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: firebrick;
+}
+
+.bh {
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    color: green;
+}
+
+img {
+    border: 50px solid;
+}
+
+li {
+    
+    margin: 10px;
+    font-style: italic;
+}
